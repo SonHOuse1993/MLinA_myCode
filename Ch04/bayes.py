@@ -170,3 +170,4 @@ def getTopWords(ny,sf):
     for item in sortedNY:
         print item[0]
 
+spamTest()
