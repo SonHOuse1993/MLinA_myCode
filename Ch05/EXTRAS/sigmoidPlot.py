@@ -3,6 +3,9 @@ Created on Oct 6, 2010
 
 @author: Peter
 '''
+
+# 图5-1
+
 import sys
 from pylab import *
 

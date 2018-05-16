@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*-
 '''
 Created on Oct 27, 2010
 Logistic Regression Working Module
@@ -18,14 +19,15 @@ def sigmoid(inX):
     return 1.0/(1+exp(-inX))
 
 def gradAscent(dataMatIn, classLabels):
-    dataMatrix = mat(dataMatIn)             #convert to NumPy matrix
+    dataMatrix = mat(dataMatIn)             #convert to NumPy matrix 乘法是矩阵乘法
     labelMat = mat(classLabels).transpose() #convert to NumPy matrix
     m,n = shape(dataMatrix)
     alpha = 0.001
     maxCycles = 500
     weights = ones((n,1))
     for k in range(maxCycles):              #heavy on matrix operations
-        h = sigmoid(dataMatrix*weights)     #matrix mult
+        wTx = dataMatrix*weights    #100*1维
+        h = sigmoid(wTx)     #matrix mult
         error = (labelMat - h)              #vector subtraction
         weights = weights + alpha * dataMatrix.transpose()* error #matrix mult
     return weights
