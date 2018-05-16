@@ -5,8 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/MLinA_myCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MLinA_myCode.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch05/EXTRAS/sigmoidPlot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch05/EXTRAS/sigmoidPlot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch05/logRegres.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch05/logRegres.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,18 +14,46 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/MLinA_myCode$RSS.coverage" NAME="RSS Coverage Results" MODIFIED="1526461723493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch04" />
     <SUITE FILE_PATH="coverage/MLinA_myCode$logRegres.coverage" NAME="logRegres Coverage Results" MODIFIED="1526477166241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch05" />
-    <SUITE FILE_PATH="coverage/MLinA_myCode$4_3.coverage" NAME="程序清单4-3 Coverage Results" MODIFIED="1526444341471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch04" />
-    <SUITE FILE_PATH="coverage/MLinA_myCode$4_6.coverage" NAME="程序清单4-6 Coverage Results" MODIFIED="1526459178561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch04" />
     <SUITE FILE_PATH="coverage/MLinA_myCode$plotSDerror.coverage" NAME="plotSDerror Coverage Results" MODIFIED="1526469611525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch05/EXTRAS" />
-    <SUITE FILE_PATH="coverage/MLinA_myCode$test.coverage" NAME="test Coverage Results" MODIFIED="1526469579008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch05" />
-    <SUITE FILE_PATH="coverage/MLinA_myCode$plot2D.coverage" NAME="plot2D Coverage Results" MODIFIED="1526469531608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch05/EXTRAS" />
-    <SUITE FILE_PATH="coverage/MLinA_myCode$bayes.coverage" NAME="bayes Coverage Results" MODIFIED="1526460927401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch04" />
+    <SUITE FILE_PATH="coverage/MLinA_myCode$4_3.coverage" NAME="程序清单4-3 Coverage Results" MODIFIED="1526444341471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch04" />
+    <SUITE FILE_PATH="coverage/MLinA_myCode$simpleSMO.coverage" NAME="simpleSMO Coverage Results" MODIFIED="1526484197846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch06" />
     <SUITE FILE_PATH="coverage/MLinA_myCode$sigmoidPlot.coverage" NAME="sigmoidPlot Coverage Results" MODIFIED="1526469929518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch05/EXTRAS" />
+    <SUITE FILE_PATH="coverage/MLinA_myCode$RSS.coverage" NAME="RSS Coverage Results" MODIFIED="1526461723493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch04" />
+    <SUITE FILE_PATH="coverage/MLinA_myCode$test.coverage" NAME="test Coverage Results" MODIFIED="1526469579008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch05" />
+    <SUITE FILE_PATH="coverage/MLinA_myCode$bayes.coverage" NAME="bayes Coverage Results" MODIFIED="1526460927401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch04" />
+    <SUITE FILE_PATH="coverage/MLinA_myCode$4_6.coverage" NAME="程序清单4-6 Coverage Results" MODIFIED="1526459178561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch04" />
+    <SUITE FILE_PATH="coverage/MLinA_myCode$plot2D.coverage" NAME="plot2D Coverage Results" MODIFIED="1526469531608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch05/EXTRAS" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="testSet.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ch06/testSet.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="svmMLiA.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ch06/svmMLiA.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="simpleSMO.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Ch06/simpleSMO.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="34" column="27" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -66,10 +92,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="21" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
     <option name="width" value="1440" />
-    <option name="height" value="879" />
+    <option name="height" value="878" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -79,7 +105,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -90,12 +115,13 @@
             <path>
               <item name="MLinA_myCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="MLinA_myCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch05" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch06" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -116,7 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.logRegres">
+  <component name="RunManager" selected="Python.simpleSMO">
     <configuration name="logRegres" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MLinA_myCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,25 +157,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch05/logRegres.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="plot2D" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MLinA_myCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch05/EXTRAS" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch05/EXTRAS/plot2D.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,6 +200,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="simpleSMO" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MLinA_myCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch06/simpleSMO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MLinA_myCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -213,19 +239,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.plot2D" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.plotSDerror" />
       <item itemvalue="Python.sigmoidPlot" />
       <item itemvalue="Python.logRegres" />
+      <item itemvalue="Python.simpleSMO" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.simpleSMO" />
         <item itemvalue="Python.logRegres" />
         <item itemvalue="Python.sigmoidPlot" />
         <item itemvalue="Python.plotSDerror" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.plot2D" />
       </list>
     </recent_temporary>
   </component>
@@ -243,56 +269,57 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="798" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50067025" side_tool="true" weight="0.35164836" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2650448" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26530612" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14678285" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14878398" />
+      <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" weight="0.27211797" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.3500785" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="R Packages" order="3" />
-      <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26632524" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19670959" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="R Graphics" order="0" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="R Graphics" order="0" />
       <window_info anchor="right" id="R Packages" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.35083225" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.35164836" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="SciView" order="5" weight="0.27211797" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Database" order="6" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,9 +360,6 @@
         <state relative-caret-position="-110" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ch04/EXTRAS/monoDemo.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Ch04/程序清单4-3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -358,18 +382,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ch05/EXTRAS/plotGD.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Ch05/EXTRAS/plot2D.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="97">
           <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ch05/testSet.txt">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Ch05/EXTRAS/sigmoidPlot.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -406,15 +424,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ch05/horseColicTest.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Ch05/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch06/testSet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch06/svmMLiA.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch06/simpleSMO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="34" column="27" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="32" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
